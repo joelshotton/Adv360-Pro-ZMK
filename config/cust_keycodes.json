@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"LEFT_SHIFT(Z)"
+		],
+		"description": "LEFT_SHIFT(Z)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
